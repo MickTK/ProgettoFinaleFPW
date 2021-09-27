@@ -1,3 +1,3 @@
-# Progetto Finale FPW
+# ProgettoFinaleFPW
 - Netbeans
 - PgAdmin4
